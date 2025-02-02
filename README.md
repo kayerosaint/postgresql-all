@@ -45,7 +45,7 @@ FTP_PASS="password"
 
 ## Как использовать
 
-Клонировуйте репозиторий
+Клонируйте репозиторий
 
 ```bash
 git clone https://github.com/kayerosaint/postgresql-all.git
